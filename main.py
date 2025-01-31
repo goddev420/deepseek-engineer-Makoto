@@ -61,7 +61,7 @@ system_PROMPT = dedent("""\
        - Debug issues with precision
 
     2. File Operations:
-       a) Read existing files
+       a) Read existing files / X pull
           - Access user-provided file contents for context
           - Analyze multiple files to understand project structure
        
